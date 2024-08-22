@@ -11,6 +11,11 @@ Repositories on GitHub:
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
+One must first have a GitHub account
+Log in to your account and navigate to the "Home" tab
+Cick on "New" to create new repository
+Add the name the repository
+Initialize it with a README file and you are done.
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
 Branching and Merging in GitHub:
